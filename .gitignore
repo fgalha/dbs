@@ -1,22 +1,28 @@
-# Compiled class file
+# ignora binarios de aplicativos
+*.dll
+*.exe
+*.com
 *.class
 
-# Log file
+# ignora arquivos compactados
+*.zip
+*.bzip2
+*.gzip
+*.gz
+*.rar
+*.7z
+*.tar
+
+# ignora arquivos de log
 *.log
 
-# BlueJ files
-*.ctxt
+# ignora arquivos binarios de aplicacao
+*.pdf
 
-# Mobile Tools for Java (J2ME)
-.mtj.tmp/
+# ignora arquivos criados pelo maven
+/target
 
-# Package Files #
-*.jar
-*.war
-*.ear
-*.zip
-*.tar.gz
-*.rar
-
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
-hs_err_pid*
+# ignora arquivos da workspace do eclipse
+.settings/
+.classpath
+.project

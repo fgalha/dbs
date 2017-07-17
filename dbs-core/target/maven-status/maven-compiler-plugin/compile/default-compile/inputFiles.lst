@@ -1,0 +1,12 @@
+C:\dev\workspaces\batch-redis-cluster\dbs-core\src\main\java\br\com\b3\digsta\dbs\concurrent\AbstractProducerConsumer.java
+C:\dev\workspaces\batch-redis-cluster\dbs-core\src\main\java\br\com\b3\digsta\dbs\concurrent\ProcessUnit.java
+C:\dev\workspaces\batch-redis-cluster\dbs-core\src\main\java\br\com\b3\digsta\dbs\network\CommandControl.java
+C:\dev\workspaces\batch-redis-cluster\dbs-core\src\main\java\br\com\b3\digsta\dbs\network\CommandUnit.java
+C:\dev\workspaces\batch-redis-cluster\dbs-core\src\main\java\br\com\b3\digsta\dbs\network\CommandTemplate.java
+C:\dev\workspaces\batch-redis-cluster\dbs-core\src\main\java\br\com\b3\digsta\dbs\concurrent\Producer.java
+C:\dev\workspaces\batch-redis-cluster\dbs-core\src\main\java\br\com\b3\digsta\dbs\network\CommandStatus.java
+C:\dev\workspaces\batch-redis-cluster\dbs-core\src\main\java\br\com\b3\digsta\dbs\concurrent\ProcessUnitStatus.java
+C:\dev\workspaces\batch-redis-cluster\dbs-core\src\main\java\br\com\b3\digsta\dbs\network\ServerRegisterControl.java
+C:\dev\workspaces\batch-redis-cluster\dbs-core\src\main\java\br\com\b3\digsta\dbs\network\ServerInfo.java
+C:\dev\workspaces\batch-redis-cluster\dbs-core\src\main\java\br\com\b3\digsta\dbs\concurrent\ContinuousProcessUnit.java
+C:\dev\workspaces\batch-redis-cluster\dbs-core\src\main\java\br\com\b3\digsta\dbs\concurrent\Consumer.java

@@ -1,0 +1,3 @@
+br\com\b3\digsta\dbs\redis\RedisConfiguration.class
+br\com\b3\digsta\dbs\redis\server\ServerRegisterControlRedisImpl.class
+br\com\b3\digsta\dbs\redis\server\CommandControlRedisImpl.class
