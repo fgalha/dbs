@@ -1,5 +1,5 @@
 eclipse.preferences.version=1
 extraProperties=
-projectKey=br.com.b3.digsta.dbs.command\:dbs-rtc-load
+projectKey=br.com.fgalha.pocscs.dbs.command\:dbs-rtc-load
 serverUrl=http\://localhost\:9000
 version=2

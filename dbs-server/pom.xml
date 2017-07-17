@@ -3,7 +3,7 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>br.com.b3.digsta.dbs</groupId>
+	<groupId>br.com.fgalha.pocs.dbs</groupId>
 	<artifactId>dbs-server</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
@@ -78,17 +78,17 @@
 		</dependency>
 		-->
 		<dependency>
-			<groupId>br.com.b3.digsta.dbs</groupId>
+			<groupId>br.com.fgalha.pocs.dbs</groupId>
 			<artifactId>dbs-core</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
 		</dependency>
 		<dependency>
-			<groupId>br.com.b3.digsta.dbs</groupId>
+			<groupId>br.com.fgalha.pocs.dbs</groupId>
 			<artifactId>dbs-dist-redis</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
 		</dependency>
 		<dependency>
-			<groupId>br.com.b3.digsta.dbs.command</groupId>
+			<groupId>br.com.fgalha.pocs.dbs.command</groupId>
 			<artifactId>dbs-rtc-load</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
 		</dependency>

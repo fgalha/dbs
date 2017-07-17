@@ -1,5 +1,5 @@
 eclipse.preferences.version=1
 extraProperties=
-projectKey=br.com.b3.digsta.dbs\:dbs-dist-redis
+projectKey=br.com.fgalha.pocs.dbs\:dbs-dist-redis
 serverUrl=http\://localhost\:9000
 version=2

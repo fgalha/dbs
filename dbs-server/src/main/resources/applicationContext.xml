@@ -14,6 +14,6 @@ http://www.springframework.org/schema/cache
 http://www.springframework.org/schema/cache/spring-cache-4.1.xsd"
 	default-lazy-init="true">
 
-	<context:component-scan base-package="br.com.b3.digsta.dbs" />
+	<context:component-scan base-package="br.com.fgalha.pocs.dbs" />
 
 </beans>
